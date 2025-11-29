@@ -1,6 +1,6 @@
 name: "友链申请"
 description: "为 CLN Blog 申请友链"
-type: "新友链"
+label: "新友链,等待处理"
 body:
 - type: checkboxes
   id: "yml-1"
